@@ -7,7 +7,7 @@ const productos = [
     tallas:"XL",
     tela:"Brush",
     descripcion:"Batola suave, fresca y cómoda para descansar.",
-    imagen:"/batolas6.jpg"
+    imagen:"batolas6.jpg"
 },
 
     {
@@ -17,7 +17,7 @@ const productos = [
         tallas:" M ",
         tela:"Brush",
         descripcion:"Pijama Suave...",
-        imagen:"/pantalon5.jpg"
+        imagen:"pantalon5.jpg"
         
     },
 
@@ -28,7 +28,7 @@ const productos = [
         tallas:"M - L - XL",
          tela:"Brush",
          descripcion:"Pijama suave, fresca y cómoda para descansar.",
-        imagen:"/hombre9.jpg"
+        imagen:"hombre9.jpg"
     },
 
     {
@@ -38,7 +38,7 @@ const productos = [
         tallas:"16",
           tela:"Brush",
          descripcion:"Pijama suave, fresca y cómoda para descansar.",
-        imagen:"/niño11.jpg"
+        imagen:"niño11.jpg"
     },
 
     {
@@ -48,7 +48,7 @@ const productos = [
         tallas:" M ",
           tela:"Brush",
          descripcion:"Pijama suave, fresca y cómoda para descansar.",
-        imagen:"/short2.jpg"
+        imagen:"short2.jpg"
     },
        {
     id:6,
@@ -57,7 +57,7 @@ const productos = [
     tallas:"L",
     tela:"Brush",
     descripcion:"Batola suave, fresca y cómoda para descansar.",
-    imagen:"/batola12.jpg"
+    imagen:"batola12.jpg"
 
 },
    {
@@ -67,7 +67,7 @@ const productos = [
     tallas:"Única",
     tela:"Brush",
     descripcion:"Batola suave, fresca y cómoda para descansar.",
-    imagen:"/batola14.jpg"
+    imagen:"batola14.jpg"
 },
    {
     id:8,
@@ -76,7 +76,7 @@ const productos = [
     tallas:"Única",
     tela:"Brush",
     descripcion:"Batola suave, fresca y cómoda para descansar.",
-    imagen:"/batola15.jpg"
+    imagen:"batola15.jpg"
 },
   {
     id:9,
@@ -85,7 +85,7 @@ const productos = [
     tallas:"L",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/Capri16.jpg"
+    imagen:"Capri16.jpg"
 },
   {
 
@@ -95,7 +95,7 @@ const productos = [
     tallas:"L",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/Capri17.jpg"
+    imagen:"Capri17.jpg"
 
 
 },
@@ -107,7 +107,7 @@ const productos = [
     tallas:"M",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/Capri18.jpg"
+    imagen:"Capri18.jpg"
 },
 {
 
@@ -117,7 +117,7 @@ const productos = [
     tallas:"M",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/Capri19.jpg"
+    imagen:"Capri19.jpg"
 },
 {
 
@@ -127,7 +127,7 @@ const productos = [
     tallas:"M",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/Capri20.jpg"
+    imagen:"Capri20.jpg"
 },
 {
 
@@ -137,7 +137,7 @@ const productos = [
     tallas:"S",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/Capri21.jpg"
+    imagen:"Capri21.jpg"
 },
 {
 
@@ -147,7 +147,7 @@ const productos = [
     tallas:"XL",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/Capri22.jpg"
+    imagen:"Capri22.jpg"
 },
 {
 
@@ -157,7 +157,7 @@ const productos = [
     tallas:"XL",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/Capri23.jpg"
+    imagen:"Capri23.jpg"
 },
 {
 
@@ -167,7 +167,7 @@ const productos = [
     tallas:"XL",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/Capri24.jpg"
+    imagen:"Capri24.jpg"
 },
 {
 
@@ -177,7 +177,7 @@ const productos = [
     tallas:"10-12",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/Niños25.jpg"
+    imagen:"Niños25.jpg"
 },
 {
 
@@ -187,7 +187,7 @@ const productos = [
     tallas:"2 - 4",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/Niños26.jpg"
+    imagen:"Niños26.jpg"
 },
 {
 
@@ -197,7 +197,7 @@ const productos = [
     tallas:"8",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/Niñas28.jpg"
+    imagen:"Niñas28.jpg"
 },
 {
 
@@ -207,7 +207,7 @@ const productos = [
     tallas:"8",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/Niñas29.jpg"
+    imagen:"Niñas29.jpg"
 },
 {
 
@@ -217,7 +217,7 @@ const productos = [
     tallas:"8",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/Niñas30.jpg"
+    imagen:"Niñas30.jpg"
 },
 {
 
@@ -227,7 +227,7 @@ const productos = [
     tallas:"8",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/Niñas31.jpg"
+    imagen:"Niñas31.jpg"
 },
 {
 
@@ -237,7 +237,7 @@ const productos = [
     tallas:"12",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/Niñas32.jpg"
+    imagen:"Niñas32.jpg"
 },
 {
 
@@ -247,7 +247,7 @@ const productos = [
     tallas:"12",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/Niñas33.jpg"
+    imagen:"Niñas33.jpg"
 },
 {
 
@@ -257,7 +257,7 @@ const productos = [
     tallas:"8",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/Niñas34.jpg"
+    imagen:"Niñas34.jpg"
 },
 {
 
@@ -267,7 +267,7 @@ const productos = [
     tallas:"8",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/Niñas35.jpg"
+    imagen:"Niñas35.jpg"
 },
 {
 
@@ -277,7 +277,7 @@ const productos = [
     tallas:"16",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/Niños36.jpg"
+    imagen:"Niños36.jpg"
 },
 {
 
@@ -287,7 +287,7 @@ const productos = [
     tallas:"10-12",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/Niños37.jpg"
+    imagen:"Niños37.jpg"
 },
 {
 
@@ -297,7 +297,7 @@ const productos = [
     tallas:"2-4",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/Niños38.jpg"
+    imagen:"Niños38.jpg"
 },
 {
 
@@ -307,7 +307,7 @@ const productos = [
     tallas:"L",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/pantalón39.jpg"
+    imagen:"pantalón39.jpg"
 },
 {
 
@@ -317,7 +317,7 @@ const productos = [
     tallas:"L",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/pantalón40.jpg"
+    imagen:"pantalón40.jpg"
 },
 {
 
@@ -327,7 +327,7 @@ const productos = [
     tallas:"M",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/pantalón41.jpg"
+    imagen:"pantalón41.jpg"
 },
 {
 
@@ -337,7 +337,7 @@ const productos = [
     tallas:"M",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/pantalón42.jpg"
+    imagen:"pantalón42.jpg"
 },
 {
 
@@ -347,7 +347,7 @@ const productos = [
     tallas:"M",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/pantalón43.jpg"
+    imagen:"pantalón43.jpg"
 },
 {
 
@@ -357,7 +357,7 @@ const productos = [
     tallas:"XL",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/pantalón44.jpg"
+    imagen:"pantalón44.jpg"
 },
 {
 
@@ -367,7 +367,7 @@ const productos = [
     tallas:"XL",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/pantalón45.jpg"
+    imagen:"pantalón45.jpg"
 },
 {
 
@@ -377,7 +377,7 @@ const productos = [
     tallas:"XL",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/pantalón46.jpg"
+    imagen:"pantalón46.jpg"
 },
 {
 
@@ -387,7 +387,7 @@ const productos = [
     tallas:"XL",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/pantalón47.jpg"
+    imagen:"pantalón47.jpg"
 },
 {
 
@@ -397,7 +397,7 @@ const productos = [
     tallas:"XL",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/pantalón48.jpg"
+    imagen:"pantalón48.jpg"
 },
 {
 
@@ -407,7 +407,7 @@ const productos = [
     tallas:"L",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/short49.jpg"
+    imagen:"short49.jpg"
 },
 {
 
@@ -417,7 +417,7 @@ const productos = [
     tallas:"L",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/short50.jpg"
+    imagen:"short50.jpg"
 },
 {
 
@@ -427,7 +427,7 @@ const productos = [
     tallas:"L",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/short51.jpg"
+    imagen:"short51.jpg"
 },
 {
 
@@ -437,7 +437,7 @@ const productos = [
     tallas:"L",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/short52.jpg"
+    imagen:"short52.jpg"
 },
 {
 
@@ -447,7 +447,7 @@ const productos = [
     tallas:"L",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/short53.jpg"
+    imagen:"short53.jpg"
 },
 {
 
@@ -457,7 +457,7 @@ const productos = [
     tallas:"L",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/short54.jpg"
+    imagen:"short54.jpg"
 },
 {
 
@@ -467,7 +467,7 @@ const productos = [
     tallas:"L",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/short55.jpg"
+    imagen:"short55.jpg"
 },
 {
 
@@ -477,7 +477,7 @@ const productos = [
     tallas:"M",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/short56.jpg"
+    imagen:"short56.jpg"
 },
 {
 
@@ -487,7 +487,7 @@ const productos = [
     tallas:"M",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/short57.jpg"
+    imagen:"short57.jpg"
 },
 {
 
@@ -497,7 +497,7 @@ const productos = [
     tallas:"M",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/short58.jpg"
+    imagen:"short58.jpg"
 },
 {
 
@@ -507,7 +507,7 @@ const productos = [
     tallas:"M",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/short59.jpg"
+    imagen:"short59.jpg"
 },
 {
 
@@ -517,7 +517,7 @@ const productos = [
     tallas:"M",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/short60.jpg"
+    imagen:"short60.jpg"
 },
 {
 
@@ -527,7 +527,7 @@ const productos = [
     tallas:"M",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/short61.jpg"
+    imagen:"short61.jpg"
 },
 {
 
@@ -537,7 +537,7 @@ const productos = [
     tallas:"M",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/short62.jpg"
+    imagen:"short62.jpg"
 },
 {
 
@@ -547,7 +547,7 @@ const productos = [
     tallas:"M",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/short63.jpg"
+    imagen:"short63.jpg"
 },
 {
 
@@ -557,7 +557,7 @@ const productos = [
     tallas:"S",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/short64.jpg"
+    imagen:"short64.jpg"
 },
 {
 
@@ -567,7 +567,7 @@ const productos = [
     tallas:"S",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/short65.jpg"
+    imagen:"short65.jpg"
 },
 {
 
@@ -577,7 +577,7 @@ const productos = [
     tallas:"S",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/short66.jpg"
+    imagen:"short66.jpg"
 },
 {
 
@@ -587,7 +587,7 @@ const productos = [
     tallas:"S",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/short67.jpg"
+    imagen:"short67.jpg"
 },
 {
 
@@ -597,7 +597,7 @@ const productos = [
     tallas:"S",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/short68.jpg"
+    imagen:"short68.jpg"
 },
 {
 
@@ -607,7 +607,7 @@ const productos = [
     tallas:"S",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/short69.jpg"
+    imagen:"short69.jpg"
 },
 {
 
@@ -617,7 +617,7 @@ const productos = [
     tallas:"S",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/short70.jpg"
+    imagen:"short70.jpg"
 },
 {
 
@@ -627,7 +627,7 @@ const productos = [
     tallas:"XL",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/short71.jpg"
+    imagen:"short71.jpg"
 },
 {
 
@@ -637,7 +637,7 @@ const productos = [
     tallas:"XL",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/short72.jpg"
+    imagen:"short72.jpg"
 },
 {
 
@@ -647,7 +647,7 @@ const productos = [
     tallas:"XL",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/short73.jpg"
+    imagen:"short73.jpg"
 },
 {
 
@@ -657,7 +657,7 @@ const productos = [
     tallas:"XL",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/short74.jpg"
+    imagen:"short74.jpg"
 },
 {
 
@@ -667,7 +667,7 @@ const productos = [
     tallas:"XL",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/short75.jpg"
+    imagen:"short75.jpg"
 },
 {
 
@@ -677,7 +677,7 @@ const productos = [
     tallas:"XL",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/short76.jpg"
+    imagen:"short76.jpg"
 },
 {
 
@@ -687,7 +687,7 @@ const productos = [
     tallas:"XL",
     tela:"Brush",
     descripcion:"Pijama suave, fresca y cómoda para descansar.",
-    imagen:"/short77.jpg"
+    imagen:"short77.jpg"
 },
 
 
