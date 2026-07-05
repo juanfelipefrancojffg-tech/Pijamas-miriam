@@ -10,7 +10,7 @@ function mostrarProductos(lista) {
         contenedor.innerHTML += `
         <div class="card">
 
-            <img class="foto-producto"
+            < class="foto-producto"
                  src="${producto.imagen}"
                  alt="${producto.nombre}">
 
@@ -122,7 +122,7 @@ document.addEventListener("click", (e) => {
 
     if (!producto) return;
 
-    document.getElementById("modal-img").src = producto.imagen;
+    document.getElementById("modal-").src = producto.imagen;
     document.getElementById("modal-nombre").textContent = producto.nombre;
     document.getElementById("modal-categoria").textContent = "Categoría: " + producto.categoria;
     document.getElementById("modal-tallas").textContent = "Tallas: " + producto.tallas;
