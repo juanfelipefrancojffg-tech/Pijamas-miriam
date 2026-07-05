@@ -748,7 +748,7 @@ transform:translateY(0);
 }
 #catalogo{
 
-    padding:80px 8%;
+    padding: 170px 8% 80px;
     background:#fafafa;
 
 }
@@ -1136,7 +1136,7 @@ font-size:16px;
         display: none;
         flex-direction: column;
         position: absolute;
-        top: 80px;
+        top: 100%;
         left: 0;
         width: 100%;
         background: white;
